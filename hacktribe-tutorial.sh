@@ -44,7 +44,7 @@
 # First we need to download some files.  
 
 # Clone the repo, including all submodules:
-git clone --recursive https://github.com/bangcorrupt/hacktribe.git
+git clone -b experimental --recursive https://github.com/bangcorrupt/hacktribe.git
 
 # This will get a copy of all the Hacktribe project files.
 

@@ -6,5 +6,6 @@
     ]
     }
   },
+"postCreateCommand": "git checkout experimental",
 "postAttachCommand": "./hacktribe-tutorial.sh" 
 }
